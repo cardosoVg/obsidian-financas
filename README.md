@@ -15,7 +15,7 @@ Uma ferramenta simples em Python para registrar gastos e ganhos diretamente no s
 2. Baixe o arquivo `obsidian_financas.exe`.
 3. Execute e configure o caminho da sua pasta de finanças no Obsidian.
 
-## 🛠️ Para Desenvolvedores (
+## 🛠️ Para Desenvolvedores 
 
 ```zsh
 # Clonar o repositório
